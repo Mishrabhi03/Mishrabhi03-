@@ -47,5 +47,5 @@ I enjoy working on **end-to-end analytics projects** — from data extraction an
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-mishra
+- 💼 LinkedIn: www.linkedin.com/in/abhishek-mishra-44464b2a5
 - 📧 Email: mishrabhishek003@gmail.com
